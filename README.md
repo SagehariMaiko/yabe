@@ -1,0 +1,4 @@
+yabe
+====
+
+Yet another blog
